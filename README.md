@@ -34,8 +34,8 @@ With a passion for **Kubernetes**, **Terraform**, and **Java**, I specialize in 
 
 ### 📫 Let's Connect!
 
-- [LinkedIn](https://linkedin.com/in/preemal-monis)
-- [GitHub](https://github.com/preemalmonis)
+- [LinkedIn](https://www.linkedin.com/in/preemal-monis-112972277/)
+- [GitHub](https://github.com/Preemal10)
 
 ### 💡 My Motto:
 "Innovation distinguishes between a leader and a follower." – Steve Jobs
