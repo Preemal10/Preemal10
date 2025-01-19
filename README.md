@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hi there! 👋 I'm Preemal Monis
 
-<!--
-**Preemal10/Preemal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer | DevOps Engineer**  
+With a passion for **Kubernetes**, **Terraform**, and **Java**, I specialize in crafting innovative, scalable, and efficient solutions for modern enterprise challenges.
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 **Passion**: Bringing innovation to every project I work on.
+- 🌐 **Focus Areas**: DevOps, Kubernetes, Terraform, and professional enterprise architecture.
+- 💻 **Programming Expertise**: Advanced Java development, designing clean, maintainable, and performant code.
+- 📈 **Experience**: Leveraging years of professional experience in enterprise systems to deliver value-driven solutions.
+
+### 🛠️ Tech Stack
+
+#### **Languages & Frameworks**
+- Java \(Spring Boot, Hibernate\)
+- Python \(Automation & Scripting\)
+
+#### **DevOps & Infrastructure**
+- Kubernetes | Docker
+- Terraform | Helm
+- CI/CD: Jenkins, GitHub Actions
+
+#### **Architecture & Tools**
+- Microservices Architecture
+- Cloud: AWS, Azure
+- Monitoring: Prometheus, Grafana
+
+### 🌟 Fun Facts
+
+- ✨ I enjoy exploring cutting-edge technologies in the cloud and DevOps space.
+- 🤝 I believe collaboration and knowledge-sharing fuel innovation.
+- 📚 Lifelong learner always seeking the next big challenge.
+
+### 📫 Let's Connect!
+
+- [LinkedIn](https://linkedin.com/in/preemal-monis)
+- [GitHub](https://github.com/preemalmonis)
+
+### 💡 My Motto:
+"Innovation distinguishes between a leader and a follower." – Steve Jobs
