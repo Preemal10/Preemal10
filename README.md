@@ -5,10 +5,10 @@
 
 ### 👩‍💻 About Me
 
-🌟 Passion: Bringing innovation and quality to every project I work on.
-🌐 Focus Areas: Full-stack application development, API design, modern frontend frameworks, cloud-native systems, and DevOps-enabled delivery.
-💻 Programming Expertise: Designing clean, maintainable, and performant applications across both frontend and backend layers.
-📈 Experience: Leveraging years of professional experience in enterprise systems to deliver reliable, value-driven, end-to-end solutions.
+- 🌟 Passion: Bringing innovation and quality to every project I work on.
+- 🌐 Focus Areas: Full-stack application development, API design, modern frontend frameworks, cloud-native systems, and DevOps-enabled delivery.
+- 💻 Programming Expertise: Designing clean, maintainable, and performant applications across both frontend and backend layers.
+- 📈 Experience: Leveraging years of professional experience in enterprise systems to deliver reliable, value-driven, end-to-end solutions.
 
 ### 🛠️ Tech Stack
 
