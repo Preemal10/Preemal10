@@ -1,21 +1,21 @@
 ### Hi there! 👋 I'm Preemal Monis
 
-💻 **Backend Developer & DevOps Engineer**  
-🚀 Passionate about crafting scalable and high-performance software solutions  
+💻 Full-Stack Developer
+🚀 Passionate about building scalable, high-performance, and user-centric software solutions
 
 ### 👩‍💻 About Me
 
-- 🌟 **Passion**: Bringing innovation to every project I work on.
-- 🌐 **Focus Areas**: Software Development, DevOps, Kubernetes, Terraform, and professional enterprise architecture.
-- 💻 **Programming Expertise**: Advanced Java development, designing clean, maintainable, and performant code.
-- 📈 **Experience**: Leveraging years of professional experience in enterprise systems to deliver value-driven solutions.
+🌟 Passion: Bringing innovation and quality to every project I work on.
+🌐 Focus Areas: Full-stack application development, API design, modern frontend frameworks, cloud-native systems, and DevOps-enabled delivery.
+💻 Programming Expertise: Designing clean, maintainable, and performant applications across both frontend and backend layers.
+📈 Experience: Leveraging years of professional experience in enterprise systems to deliver reliable, value-driven, end-to-end solutions.
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, Kotlin, Python, JavaScript, Node.js, HTML, CSS  
-- **Frameworks & Libraries:** Spring Boot, Jakarta EE, JUnit 5, Mockito  
+- **Languages:** Java, Kotlin, Python, JavaScript, TypeScript, Node.js, HTML, CSS 
+- **Frameworks & Libraries:** Spring Boot, Jakarta EE, JUnit 5, React 
 - **DevOps & Cloud:** AWS, Azure, Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, GitLab CI/CD  
-- **Databases:** PostgreSQL, Oracle, PL/SQL  
+- **Databases:** PostgreSQL, Oracle, PL/SQL, MongoDB  
 - **Build Tools:** Gradle, Maven  
 - **Project Management:** Jira, Confluence  
 - **Data Visualization:** Power BI, Tableau
