@@ -1,7 +1,7 @@
 ### Hi there! 👋 I'm Preemal Monis
 
 💻 Full-Stack Developer |
- Passionate about building scalable, high-performance, and user-centric software solutions
+ Passionate about building scalable, high-performance, and user-centric software solutions.
 
 ### 👩‍💻 About Me
 
