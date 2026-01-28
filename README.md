@@ -12,19 +12,13 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** Java, Python, JavaScript, TypeScript, Node.js, HTML, CSS 
-- **Frameworks & Libraries:** Spring Boot, Jakarta EE, JUnit 5, React 
+- **Backend:** Java, Spring Boot, Python, Node.js, Express.js 
+- **Frontend:** TypeScript, JavaScript, HTML5, Tailwind CSS, React.js
 - **DevOps & Cloud:** Kubernetes, Docker, Terraform, Jenkins, GitHub Actions
 - **Databases:** PostgreSQL, Oracle, PL/SQL, MongoDB  
 - **Build Tools:** Gradle, Maven  
 - **Project Management:** Jira, Confluence  
 - **Data Visualization:** Power BI, Tableau
-
-### 🌟 Fun Facts
-
-- I enjoy exploring cutting-edge technologies in the cloud and DevOps space.
-- I believe collaboration and knowledge-sharing fuel innovation.
-- Lifelong learner always seeking the next big challenge.
 
 ### 📫 Let's Connect!
 
